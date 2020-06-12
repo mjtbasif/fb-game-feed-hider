@@ -1,0 +1,32 @@
+{
+
+  "description": "hides right column where game feed is present",
+  "manifest_version": 2,
+  "name": "FB game feed hider",
+  "version": "1.0",
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.facebook.com/*"],
+      "js": ["fb.js"],
+      "css": ["fb.css"],
+      "run_at": "document_start"
+    },
+    {
+      "matches": ["*://*.facebook.com/*"],
+      "js": ["fb.js"],
+      "css": ["fb.css"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": ["*://*.facebook.com/*"],
+      "js": ["fb.js"],
+      "css": ["fb.css"],
+      "run_at": "document_end"
+    }
+  ]
+
+}
