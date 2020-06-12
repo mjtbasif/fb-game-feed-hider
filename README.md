@@ -9,11 +9,11 @@ With this little piece of extension i can finally enjoy the classical design wit
 
 1. download all the files and organize the files the way it is available here. 
 
-   |-- icons
-       |-- border-48.png
-   |-- manifest.json
-   |-- fb.css 
-   |-- fb.js
+   |-- icons <br>
+       |-- border-48.png <br>
+   |-- manifest.json <br>
+   |-- fb.css <br>
+   |-- fb.js <br>
 
 2. open firefox and go to about:debugging 
 
