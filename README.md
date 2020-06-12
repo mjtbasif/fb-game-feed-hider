@@ -11,7 +11,7 @@ With this little piece of extension i can finally enjoy the classical design wit
 <br>
 
    > icons
-    >> border-48.png
+   >> border-48.png
    > manifest.json
    > fb.css
    > fb.js
