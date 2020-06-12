@@ -15,7 +15,7 @@ With this little piece of extension i can finally enjoy the classical design wit
 
 4. click on "Load Temporary Add-On"
 
-5. browse the files and select any of the files (for example, "manifest.js") 
+5. browse the files and select any of the files (for example, "manifest.json") 
 
 # Add-on on Firefox
 
