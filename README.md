@@ -8,14 +8,12 @@ With this little piece of extension i can finally enjoy the classical design wit
 # how to use it
 
 1. download all the files and organize the files the way it is available here. 
-<br>
 
-   > icons
-   >> border-48.png
-   <br>
-   > manifest.json <br>
-   > fb.css <br>
-   > fb.js <br>
+   | .. icons
+       |.. border-48.png
+   | .. manifest.json
+   | .. fb.css 
+   | .. fb.js
 
 2. open firefox and go to about:debugging 
 
