@@ -19,4 +19,4 @@ With this little piece of extension i can finally enjoy the classical design wit
 
 # Add-on on Firefox
 
-i will update the link as soon as it is listed on the gallery. 
+you can get this add on installed from [FB game feed hider](https://addons.mozilla.org/en-US/firefox/addon/fb-game-feed-hider/)
